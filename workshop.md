@@ -45,7 +45,7 @@ Start cloud shell by typing the address ````shell.azure.com```` into a web brows
 The code for this workshop is located in the same repository that you are looking at now. To *clone* the repository to your cloud shell, do this:
 
 ```bash
-git clone https://github.com/pelithne/k8s.git
+git clone https://github.com/rsmnc2011/k8s.git
 ```
 
 Then cd into the repository directory:
